@@ -1,0 +1,1 @@
+gpg pass.gpg
